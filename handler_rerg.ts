@@ -1,0 +1,1 @@
+const service_rerg = <T>(args: T): T => { return args; };
