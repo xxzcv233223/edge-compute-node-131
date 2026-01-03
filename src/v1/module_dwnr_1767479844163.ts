@@ -1,0 +1,1 @@
+const util_dwnr = (d: any) => d;
